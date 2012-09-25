@@ -20,3 +20,10 @@ C:\Users\csp\projects\ITU\BDSAMcGyvers\AS38\SchedulingBenchmarkingTest\bin\Debug
 C:\Users\csp\projects\ITU\BDSAMcGyvers\AS38\SchedulingBenchmarkingTest\obj\Debug\SchedulingBenchmarkingTest.csprojResolveAssemblyReference.cache
 C:\Users\csp\projects\ITU\BDSAMcGyvers\AS38\SchedulingBenchmarkingTest\obj\Debug\SchedulingBenchmarkingTest.dll
 C:\Users\csp\projects\ITU\BDSAMcGyvers\AS38\SchedulingBenchmarkingTest\obj\Debug\SchedulingBenchmarkingTest.pdb
+C:\Users\cstp\projects\BDSAMcGyvers\AS38\SchedulingBenchmarkingTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cstp\projects\BDSAMcGyvers\AS38\SchedulingBenchmarkingTest\obj\Debug\SchedulingBenchmarkingTest.dll
+C:\Users\cstp\projects\BDSAMcGyvers\AS38\SchedulingBenchmarkingTest\bin\Debug\SchedulingBenchmarkingTest.dll
+C:\Users\cstp\projects\BDSAMcGyvers\AS38\SchedulingBenchmarkingTest\bin\Debug\SchedulingBenchmarkingTest.pdb
+C:\Users\cstp\projects\BDSAMcGyvers\AS38\SchedulingBenchmarkingTest\bin\Debug\SchedulingBenchmarking.exe
+C:\Users\cstp\projects\BDSAMcGyvers\AS38\SchedulingBenchmarkingTest\bin\Debug\SchedulingBenchmarking.pdb
+C:\Users\cstp\projects\BDSAMcGyvers\AS38\SchedulingBenchmarkingTest\obj\Debug\SchedulingBenchmarkingTest.pdb

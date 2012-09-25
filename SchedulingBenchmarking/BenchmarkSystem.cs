@@ -117,7 +117,7 @@ namespace SchedulingBenchmarking
             updateStatus(job);
         }
 
-        public void fireEvent(StateChangedEventArgs e)
+        private void fireEvent(StateChangedEventArgs e)
         {
             if (StateChanged != null) StateChanged(this, e);
         }

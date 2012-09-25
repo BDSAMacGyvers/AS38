@@ -17,3 +17,6 @@ C:\Users\csp\projects\ITU\BDSAMcGyvers\AS38\SchedulingBenchmarking\obj\Debug\Sch
 C:\Users\csp\projects\ITU\BDSAMcGyvers\AS38\SchedulingBenchmarking\bin\Debug\SchedulingBenchmarking.exe
 C:\Users\csp\projects\ITU\BDSAMcGyvers\AS38\SchedulingBenchmarking\bin\Debug\SchedulingBenchmarking.pdb
 C:\Users\csp\projects\ITU\BDSAMcGyvers\AS38\SchedulingBenchmarking\obj\Debug\SchedulingBenchmarking.csprojResolveAssemblyReference.cache
+C:\Users\cstp\projects\BDSAMcGyvers\AS38\SchedulingBenchmarking\bin\Debug\SchedulingBenchmarking.exe
+C:\Users\cstp\projects\BDSAMcGyvers\AS38\SchedulingBenchmarking\bin\Debug\SchedulingBenchmarking.pdb
+C:\Users\cstp\projects\BDSAMcGyvers\AS38\SchedulingBenchmarking\obj\Debug\ResolveAssemblyReference.cache

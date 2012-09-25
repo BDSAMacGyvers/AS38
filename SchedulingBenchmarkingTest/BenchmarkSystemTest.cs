@@ -10,6 +10,16 @@ namespace SchedulingBenchmarking
     [TestClass]
     public class BenchmarkSystemTest
     {
+        BenchmarkSystem BS;
+        Job job;
+
+        [TestInitialize]
+        public void setup()
+        {
+            BenchmarkSystem BS = new BenchmarkSystem();
+            Job job = new Job((string[] arg) => { return arg.Length.ToString(); }, new Owner("tester"), 3, 35);
+        }
+
         [TestMethod]
         public void TestSubmit()
         {
@@ -90,22 +100,17 @@ namespace SchedulingBenchmarking
             BS.updateStatus(job);
             Assert.AreEqual(0, BS.Status.Count);
         }
-        [TestMethod]
-        public void fireEvent()
-        {
-            BenchmarkSystem BS = new BenchmarkSystem();
-            Job job = new Job((string[] arg) => { return arg.Length.ToString(); }, new Owner("tester"), 3, 35);
 
-            
-            BS.fireEvent(new StateChangedEventArgs() { State = State.Running });
-            
-        }
         [TestMethod]
         public void changeState()
         {
             BenchmarkSystem BS = new BenchmarkSystem();
             Job job = new Job((string[] arg) => { return arg.Length.ToString(); }, new Owner("tester"), 3, 35);
-            
+
+            BS.Submit(job);
+            BS.changeState(job, State.Running);
+
+            Assert.IsTrue(job.State == State.Running); 
         }
 
     }
